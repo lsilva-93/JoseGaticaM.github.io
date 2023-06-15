@@ -1,7 +1,9 @@
 <<<<<<< HEAD
-# fdsw-github
+Portadolio  Profesional 
 =======
-### Hi there 👋
+**Enlace de repositorios fookeados**
+Nicolas Carrasco (https://github.com/JoseGaticaM/nicolascr726.github.io/commits/main)
+Luis Silva (https://github.com/JoseGaticaM/lsilva-93.github.io/commits/main)
 
 <!--
 **JoseGaticaM/JoseGaticaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Portadolio  Profesional 
+Portafolio  Profesional 
 =======
 **Enlace de repositorios fookeados**
 Nicolas Carrasco (https://github.com/JoseGaticaM/nicolascr726.github.io/commits/main)
